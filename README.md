@@ -13,7 +13,7 @@ Official logo files for Olive Branch Network (OBN).
 Each file is served at:
 
 ```
-https://olive-branch-network.github.io/brand/<file name>
+https://raw.githubusercontent.com/Olive-Branch-Network/brand/main/<file name>
 ```
 
 File names are permanent. If the logo changes, the files are replaced in place, so existing links keep working.
